@@ -1,0 +1,16 @@
+{
+    "name": "EasyTemplate",
+    "description": "A very simple PHP template engine",
+    "authors": [
+        {
+            "name": "Tiago Paes",
+            "email": "tiagopaes37@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":
+        {
+            "EasyTemplate\\": "src/"
+        }
+    }
+}
